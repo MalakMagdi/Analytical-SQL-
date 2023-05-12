@@ -1,4 +1,4 @@
-# Insights Into Customer Purchasing Behavior Using Analytical SQL 
+## Customer-Purchasing-Behavior-Insights-Using-Analytical-SQL
 
 Insights Into Customer Purchasing Behavior is a data analysis project that focuses on extracting valuable insights from customer transaction data using analytical SQL queries. This project provides a comprehensive understanding of customer behavior, top-selling products, sales patterns, customer segmentation, and monetary analysis.
 
